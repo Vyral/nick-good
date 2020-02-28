@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check Out This Q&A to Learn What’s Happening Now in Our Market
-date: 2020-02-28 20:33:04
+date: 2019-03-01 20:33:00
 tags:
 excerpt: >-
   In a recent interview, I covered a few important questions about the state of
