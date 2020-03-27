@@ -19,7 +19,7 @@ youtube_code: aHptTFe9pAs
 
 {% include youtube.html %}
 
-<u><strong>We created a Facebook group called <em><a href="https://www.facebook.com/groups/1921903481297713/about/">DFW Cares</a></em>, a place where the community can come together and help each other out; we&rsquo;re helping facilitate interactions by pairing people&rsquo;s needs with others capabilities and resources.&nbsp;</strong></u>
+We created a Facebook group called *[DFW Cares](https://www.facebook.com/groups/1921903481297713/about/)*, a place where the community can come together and help each other out; we’re helping facilitate interactions by pairing people’s needs with others capabilities and resources.&nbsp;
 
 If you are a homeowner, you should know that **interest rates are falling back down because the government announced they’ll be buying up as many mortgage-backed securities as they can** to help keep this economy going.&nbsp;
 
