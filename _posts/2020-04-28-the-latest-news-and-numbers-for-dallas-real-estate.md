@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest News and Numbers for Dallas Real Estate
-date:
+date: 2020-04-28 17:50:22
 tags:
 excerpt: >-
   I have the latest monthly numbers for our real estate market and I’m excited
