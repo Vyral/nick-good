@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Is Now a Good Time to Sell in Our DFW Market?'
-date:
+date: 2020-05-29 14:44:56
 tags:
 excerpt: Here’s what the latest stats say about our DFW market.
 enclosure:
