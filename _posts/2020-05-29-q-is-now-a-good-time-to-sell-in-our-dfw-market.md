@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Is Now a Good Time to Sell in Our DFW Market?'
-date: 2020-05-29 14:44:56
+date: 2020-05-29 14:44:00
 tags:
 excerpt: Here’s what the latest stats say about our DFW market.
 enclosure:
@@ -19,7 +19,7 @@ What’s going on with the DFW real estate market? Has the coronavirus affected 
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety, or use these timestamps to browse specific points at your leisure:&nbsp;**
 
-1:34—Overall year over year numbers from Collin County&nbsp;
+1:34—Overall year-over-year numbers from Collin County&nbsp;
 
 3:58—The March stats for the $200,000 to $300,000 price point
 
