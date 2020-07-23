@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Do I Disagree With This Financial Guru’s Assessment?'
-date: 2020-07-23 13:23:08
+date: 2020-07-23 13:23:00
 tags:
 excerpt: >-
   Here are my thoughts on Suze Orman’s recent comments regarding the housing
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: axLC3K1ZtRA
 ---
 
 {% include youtube.html %}
