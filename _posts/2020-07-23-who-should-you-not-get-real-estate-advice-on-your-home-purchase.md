@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Why Do I Disagree With This Financial Guru’s Assessment?'
+title: Who Should You NOT Get Real Estate Advice on your Home Purchase?
 date: 2020-07-23 13:23:00
 tags:
 excerpt: >-
