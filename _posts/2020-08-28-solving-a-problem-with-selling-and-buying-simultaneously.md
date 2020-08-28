@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solving a Problem With Selling and Buying Simultaneously
-date: 2020-08-28 18:02:53
+date: 2020-08-28 18:02:00
 tags:
 excerpt: A bridge loan can make buying and selling simultaneously much easier.
 enclosure:
@@ -32,5 +32,3 @@ Homeowners who want to sell their homes and buy a new one are having some issues
 8:30- Wrapping things up
 
 If you have any questions for me about bridge loans or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
-
-{% include pullquote.html %}
