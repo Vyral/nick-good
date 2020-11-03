@@ -35,4 +35,4 @@ Some analysts predict there will be roughly 200,000 foreclosures in Texas over t
 
 6:55—Wrapping things up&nbsp;
 
-As always, if you have questions about this or any real estate topic or are thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help.
+As always, if you're thinking of buying or selling a home soon or have any real estate questions, don’t hesitate to reach out to me.
