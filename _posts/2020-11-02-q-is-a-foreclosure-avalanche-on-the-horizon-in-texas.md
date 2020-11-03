@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Is a Foreclosure Avalanche on the Horizon in Texas?'
-date: 2020-11-02 15:54:40
+date: 2020-11-02 15:54:00
 tags:
 excerpt: Here’s why I don’t foresee a wave of foreclosures hitting Texas.
 enclosure:
@@ -15,10 +15,11 @@ youtube_code: KpfmB6bROWY
 
 {% include youtube.html %}
 
-<center><em>Here’s why I don’t foresee a wave of foreclosures hitting Texas. </em></center>
+<center><em>Here&rsquo;s why I don&rsquo;t foresee a wave of foreclosures hitting Texas. </em></center>
+
 &nbsp;
 
-Some analysts predict there will be roughly 200,000 foreclosures in Texas over the next 12 months. Will that really happen? My team and I have our finger on the pulse of the real estate market, and compared to what we’re hearing from buyers and sellers in the DFW Metroplex, we’re forecasting a different story. Most news items regarding foreclosures adopt a “sky is falling” tone, but today I’ll explain why we won’t see a repeat of 2008 and which options homeowners facing financial hardship have.&nbsp;
+Some analysts predict there will be roughly 200,000 foreclosures in Texas over the next 12 months. Will that really happen? My team and I have our fingers on the pulse of the real estate market, and based on what we’re hearing from buyers and sellers in the DFW metroplex, we’re forecasting a different story. Most news items regarding foreclosures adopt a “sky is falling” tone, but today I’ll explain why we won’t see a repeat of 2008 and go over the options available to homeowners facing financial hardship.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:&nbsp;**
 
