@@ -15,7 +15,7 @@ youtube_code: Xciqd7mRtn0
 
 {% include youtube.html %}
 
-Here are three great reasons to make the leap to homeownership in 2021.
+<center>Here are three great reasons to make the leap to homeownership in 2021.</center>
 
 A lot of people are on the fence about buying a home in 2021. Should you make the leap now or wait? I think **there are three reasons why you should buy a home in 2021:**
 
