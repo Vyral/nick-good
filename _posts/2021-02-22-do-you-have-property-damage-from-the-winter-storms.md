@@ -15,7 +15,7 @@ youtube_code: /cmLWuij4CCQ
 
 {% include youtube.html %}
 
-&nbsp;Drew Hoss of Fellars Insurance joins me to discuss winter storm coverage.
+<center><em>&nbsp;Drew Hoss of Fellars Insurance joins me to discuss winter storm coverage.</em></center>
 
 In the wake of unprecedented winter storms, many Texans are dealing with power outages, food scarcity, and property damages. The preeminent question among homeowners who have only recently had power restored and are assessing the situation is, “What’s covered here?” Joining me today is Drew Hoss of Fellars Insurance to discuss just that. From “acts of God,” to “captive carriers,” to potential rate hikes, we’ll cover it all.&nbsp;
 
