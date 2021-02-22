@@ -35,4 +35,4 @@ In the wake of unprecedented winter storms, many Texans are dealing with power o
 
 8:55 — How to get in contact with Drew if you want help shopping for a better policy fit&nbsp;
 
-I hope you found this conversation insightful. If you have questions about coverage or what to do next if you have serious property damages, please reach out. We’d be happy to connect you with Drew or refer any other professional services you may need. This is obviously a difficult time for our region, but we want you to know that we’re here to help in whatever way we can.&nbsp;
+I hope you found this conversation insightful. If you have questions about coverage or what to do next if you have serious property damage, please reach out. We’d be happy to connect you with Drew or refer any other professional services you may need. This is obviously a difficult time for our region, but we want you to know that we’re here to help in whatever way we can.&nbsp;
