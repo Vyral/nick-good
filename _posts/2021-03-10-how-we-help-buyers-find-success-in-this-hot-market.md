@@ -20,7 +20,7 @@ Here’s how buyers can win in this market.
 
 If you’re buying a home in this ultra-competitive marketplace, you’re not likely going to have a lot of fun, but there are ways of setting yourself up for success.
 
-For one, hiring the right real estate agent in this marketplace is more imperative than ever. Interest rates and inventory levels have reached historic lows. We’re currently at 1.4 months of inventory for all of Dallas and Fort Worth, meaning it would take roughly six weeks for us to sell off all our available homes, assuming no others came on the market.
+For one, **hiring the right real estate agent in this marketplace is more imperative than ever.** Interest rates and inventory levels have reached historic lows. We’re currently at 1.4 months of inventory for all of Dallas and Fort Worth, meaning it would take roughly six weeks for us to sell off all our available homes, assuming no others came on the market.
 
 According to a CBS report that recently came out where homebuyers were interviewed about their experiences in the market, homes are being shown 91 times and receive 39 offers or more. Having an experienced real estate agent on your side is critical if you want to set your offer up for success. So how does the Good Home Team help homebuyers?
 
