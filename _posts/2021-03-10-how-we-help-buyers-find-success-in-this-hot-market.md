@@ -16,7 +16,7 @@ youtube_code: l_b7Nn4rWLA
 ---
 {% include youtube.html %}
 
-<center><em>Here’s how buyers can win in this market.</em><center>
+<center><em>Here’s how buyers can win in this market.</em></center>
 
 If you’re buying a home in this ultra-competitive marketplace, you’re not likely going to have a lot of fun, but there are ways of setting yourself up for success.
 
