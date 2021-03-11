@@ -1,13 +1,13 @@
 ---
 layout: post
 title: How We Help Buyers Find Success in This Hot Market
-date: 2021-03-10 16:34:46
+date: 2021-03-10 16:34:00
 tags:
-excerpt: >-
+excerpt: Here’s how buyers can win in this market.
+enclosure:
+pullquote: >-
   The advantage of off-market properties is that you won’t have to compete with
   other buyers to buy them.
-enclosure:
-pullquote: Here’s how buyers can win in this market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
