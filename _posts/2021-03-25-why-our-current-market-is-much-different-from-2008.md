@@ -18,7 +18,7 @@ Here’s a look at why today’s market is much different than the one in 2008.
 
 Although you might be feeling like you have deja vu by seeing real estate prices climb and climb, this is not the same market as we saw in 2008. We are seeing a lot of sellers and buyers waiting for the other shoe to drop, but it’s just not happening.
 
-**Back in 2008, we had an oversupply of so-called “Ninja loans”** (No Income, No Job or Assets). You could pretty much get a loan with 0% down up to $500,000 if you had a working pulse. This was a recipe for disaster and many are still reeling from the effects.
+**Back in 2008, we had an oversupply of so-called “Ninja loans”** (No Income, No Job or Assets). You could pretty much get a loan with 0% down up to $500,000 if you had a working pulse. This was a recipe for disaster, and many are still reeling from the effects.
 
 The down payments and loan guidelines today are much different than they were back then. Buyers are putting down 30%, 40%, or even 50% on their homes. **Homeowners have much more equity than they did in the past,** and the strong buyer demand is gobbling up houses in multiple-offer situations where prices keep rising and rising.
 
