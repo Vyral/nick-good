@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Our Current Market Is Much Different From 2008
-date: 2021-03-25 13:55:47
+date: 2021-03-25 13:55:00
 tags:
 excerpt: Here’s a look at why today’s market is much different than the one in 2008.
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: lQc1ea34Vg4
+youtube_code: I-tH8yYmZ3A
 ---
 {% include youtube.html %}
 
