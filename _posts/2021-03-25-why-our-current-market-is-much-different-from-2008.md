@@ -14,7 +14,7 @@ youtube_code: I-tH8yYmZ3A
 ---
 {% include youtube.html %}
 
-Here’s a look at why today’s market is much different than the one in 2008.
+<center><em>Here’s a look at why today’s market is much different than the one in 2008.</em></center>
 
 Although you might be feeling like you have deja vu by seeing real estate prices climb and climb, this is not the same market as we saw in 2008. We are seeing a lot of sellers and buyers waiting for the other shoe to drop, but it’s just not happening.
 
