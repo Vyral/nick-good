@@ -14,7 +14,7 @@ youtube_code: 6tSNmPiOJd8
 ---
 {% include youtube.html %}
 
-Here’s why now is the perfect time to sell in our real estate market.&nbsp;
+<center><em>Here’s why now is the perfect time to sell in our real estate market.&nbsp;</em></center>
 
 As you’ve probably already heard, our real estate market is on fire. That said, here are the top five reasons now is the perfect time to sell your home:
 
