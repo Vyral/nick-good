@@ -16,7 +16,9 @@ youtube_code: jV1Aybnbmjg
 ---
 {% include youtube.html %}
 
-<center><em>This new program lets you accurately track your home’s worth.</em></center>
+<center><em>This new program lets you accurately track your home&rsquo;s worth.</em></center>
+
+<center>&nbsp;</center>
 
 Most homeowners want a way to keep track of their home’s value, but unfortunately, there are few ways to easily and accurately do so—until now, that is. **I’m excited to announce we’ve recently partnered with a proprietary technology system that can determine your home’s value.&nbsp;**
 
@@ -28,7 +30,7 @@ The service also details how much you’ve paid toward your interest and princip
 
 If that’s not enough already, there’s even more it can do. It shows you how much you would save over time and how much quicker you’d pay off your mortgage if you paid extra on your monthly bill. This feature is one I love to play around with, and it shows you just how far your dollar can really go when it comes to long-term savings. For example, if I paid $150 extra each month, it would save me $31,137 and help me pay off my home five years early.
 
-**If you’ve ever thought about buying a new home and renting out your current one, the program even shows how much you could make on Airbnb.** Regardless of what you’re looking to do, it’s an excellent service to take advantage of. Better yet, it comes at zero cost. All you need to do is enter your address, email, and phone number on this website. After then, you’ll get a customized report each month that details your home’s value.
+**If you’ve ever thought about buying a new home and renting out your current one, the program even shows how much you could make on Airbnb.** Regardless of what you’re looking to do, it’s an excellent service to take advantage of. Better yet, it comes at zero cost. All you need to do is enter your address, email, and phone number on this website. After that, you’ll get a customized report each month that details your home’s value.
 
 It’s a great program that helps homeowners track everything they need to know about their property’s value. If you have any questions or would like to learn more, feel free to reach out to me. I look forward to hearing from you soon.
 
