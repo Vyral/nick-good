@@ -16,7 +16,7 @@ youtube_code: jV1Aybnbmjg
 ---
 {% include youtube.html %}
 
-This new program lets you accurately track your home’s worth.
+<center><em>This new program lets you accurately track your home’s worth.</em></center>
 
 Most homeowners want a way to keep track of their home’s value, but unfortunately, there are few ways to easily and accurately do so—until now, that is. **I’m excited to announce we’ve recently partnered with a proprietary technology system that can determine your home’s value.&nbsp;**
 
