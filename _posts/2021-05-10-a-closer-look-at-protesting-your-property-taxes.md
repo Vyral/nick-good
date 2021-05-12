@@ -14,7 +14,9 @@ youtube_code: 6v86STsXXls
 ---
 {% include youtube.html %}
 
-<center><em>Here’s how to protest your property taxes if your home is overvalued.</em></center>
+<center><em>Here&rsquo;s how to protest your property taxes if your home is overvalued.</em></center>
+
+<center>&nbsp;</center>
 
 In the first two months of 2021, the median price of a single-family home rose by over 12%. **With home values increasing like this, property taxes are sure to follow**. Property tax bills are going to be in your mailbox soon, so today I want to cover the process of protesting your property taxes if you feel they’re inaccurate.
 
