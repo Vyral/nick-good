@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Closer Look at Protesting Your Property Taxes
-date: 2021-05-10 20:24:15
+date: 2021-05-10 20:24:00
 tags:
 excerpt: Here’s how to protest your property taxes if your home is overvalued.
 enclosure:
@@ -18,9 +18,9 @@ Here’s how to protest your property taxes if your home is overvalued.
 
 In the first two months of 2021, the median price of a single-family home rose by over 12%. **With home values increasing like this, property taxes are sure to follow**. Property tax bills are going to be in your mailbox soon, so today I want to cover the process of protesting your property taxes if you feel they’re inaccurate.
 
-The good news is that if you’re a homeowner who lives in a property as their primary residence and have filled out your homestead exemption, the most your annual assessment can go up is by 10%. Anything over that does not count toward your property tax value.
+The good news is that if you’re a homeowner who lives in a property as their primary residence and has filled out your homestead exemption, the most your annual assessment can go up is by 10%. Anything over that does not count toward your property tax value.
 
-If you feel your property taxes are inaccurate, **first, connect with a real estate agent who’s experienced in doing this, like myself.** One big thing to remember about property taxes is that they're not based on an appraiser’s opinion. They don’t know whether your home needs repairs or updates.
+If you feel your property taxes are inaccurate, **first connect with a real estate agent who’s experienced in doing this, like myself.** One big thing to remember about property taxes is that they're not based on an appraiser’s opinion. They don’t know whether your home needs repairs or updates.
 
 {% include pullquote.html %}
 
