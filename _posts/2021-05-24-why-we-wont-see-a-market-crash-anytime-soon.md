@@ -14,7 +14,7 @@ youtube_code: UZqL2FXYNM8
 ---
 {% include youtube.html %}
 
-Here’s why our housing market isn’t in a bubble.&nbsp;
+<center><em>Here’s why our housing market isn’t in a bubble.&nbsp;</em></center>
 
 When is the housing market going to crash?
 
