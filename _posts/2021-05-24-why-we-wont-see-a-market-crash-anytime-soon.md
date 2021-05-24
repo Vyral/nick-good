@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why We Won’t See a Market Crash Anytime Soon
-date: 2021-05-24 12:57:19
+date: 2021-05-24 12:57:00
 tags:
 excerpt: Here’s why our housing market isn’t in a bubble.
 enclosure:
@@ -14,7 +14,9 @@ youtube_code: UZqL2FXYNM8
 ---
 {% include youtube.html %}
 
-<center><em>Here’s why our housing market isn’t in a bubble.&nbsp;</em></center>
+<center><em>Here&rsquo;s why our housing market isn&rsquo;t in a bubble.&nbsp;</em></center>
+
+<center>&nbsp;</center>
 
 When is the housing market going to crash?
 
