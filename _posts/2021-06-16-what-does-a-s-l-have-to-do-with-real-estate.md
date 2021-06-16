@@ -2,7 +2,6 @@
 layout: post
 title: What Does A-S-L Have To Do With Real Estate?
 date: 2021-06-16 00:00:00
-tags:
 excerpt: I’m sharing a bit about myself and my real estate experience.
 enclosure:
 pullquote: Let’s go back to the days of AOL Instant Messenger for a minute.
