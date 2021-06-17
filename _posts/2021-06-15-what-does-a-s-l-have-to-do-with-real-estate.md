@@ -19,7 +19,7 @@ youtube_code: iYBANt8HTgM
 
 I noticed that I’ve been sending you videos asking for your business, but I haven’t even properly introduced myself to you\! Today I’d like to change that by dating myself a little bit. Remember the days of AOL Instant Messenger? Back then, A.S.L meant “age, sex, location,” so here’s my A.S.L:
 
-My name is Nick Good, the team leader and owner of the Good Home Team with eXp Realty, and I’ve been in the business since 2005. I was born in Dallas but grew up in Plano, and I currently reside in McKinney, Texas, with my wife, two children, and a golden doodle.
+My name is Nick Good, the team leader and owner of the Good Home Team with eXp Realty, and I’ve been in the business since 2005. I was born in Dallas but grew up in Plano, and I currently reside in McKinney, Texas, with my wife, two children, and a Goldendoodle.
 
 Before I got into the real estate industry, I was delivering pizzas in college. At the time, my brother and I wanted to get involved in the real estate investment game, so when I saw a job posting for a real estate assistant, I applied and got the job. That job opened my eyes to the huge opportunity to become a Realtor, **the kind of person who could help clients buy, sell, and invest in real estate.**
 
