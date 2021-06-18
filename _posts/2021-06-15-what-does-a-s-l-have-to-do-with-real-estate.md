@@ -5,7 +5,8 @@ date: 2021-06-15 00:00:00
 tags:
   - Real Estate
 excerpt: I’m sharing a bit about myself and my real estate experience.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Good/2021/What+Does+A-S-L+Have+To+Do+With+Real+Estate_.mp4
 pullquote: Let’s go back to the days of AOL Instant Messenger for a minute.
 enclosure_type: video/mp4
 enclosure_time:
