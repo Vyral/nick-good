@@ -17,7 +17,7 @@ youtube_code: K9owrmp62Bc
 
 {% include excerpt.html %}
 
-Right now, we’re seeing an increase in inventory in our market, so it’s a perfect time to buy. If you’re a first-time buyer or you’re worried about your current home selling too quickly, now is the best time to buy we’ve seen in a while.&nbsp;
+Right now, we’re seeing an increase in inventory in our market, so it’s a perfect time to buy. If you’re a first-time buyer or you’re worried about your current home selling too quickly, now is the best time to buy that we’ve seen in a while.&nbsp;
 
 Cash offers are 4x more likely to get accepted than financed offers, and they’re typically 2% to 5% lower than financed offers. The good news is that, as a homebuyer, you can upgrade your offer to cash. **We recently partnered with a company called Homeward that allows us to offer you a program to make this upgrade.&nbsp;**
 
