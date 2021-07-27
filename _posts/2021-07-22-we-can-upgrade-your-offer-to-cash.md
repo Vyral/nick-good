@@ -5,7 +5,8 @@ date: 2021-07-22 17:44:29
 tags:
   - Real Estate
 excerpt: If you’re looking to buy a home, we can upgrade your offer to cash.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Good/2021/We+Can+Upgrade+Your+Offer+to+Cash.mp4
 pullquote: The good news is that, as a homebuyer, you can upgrade your offer to cash.
 enclosure_type: video/mp4
 enclosure_time:
