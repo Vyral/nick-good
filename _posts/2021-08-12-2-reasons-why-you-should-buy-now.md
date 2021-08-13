@@ -5,7 +5,8 @@ date: 2021-08-12 02:31:07
 tags:
   - Real Estate
 excerpt: Here are two reasons why you should buy right now and not wait.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Good/2021/2+Reasons+Why+You+Should+Buy+Now.mp4
 pullquote: We’re seeing inventory levels increase again.
 enclosure_type: video/mp4
 enclosure_time:
