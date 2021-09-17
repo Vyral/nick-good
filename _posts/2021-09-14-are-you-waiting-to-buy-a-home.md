@@ -4,7 +4,8 @@ title: ' Are You Waiting to Buy a Home?'
 date: 2021-09-14 14:04:38
 tags:
 excerpt: Here’s why it’s not a great idea to wait until next year to buy a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Good/2021/Are+You+Waiting+to+Buy+a+Home_.mp4
 pullquote: 'Median rental prices have reached their highest point ever recorded. '
 enclosure_type: video/mp4
 enclosure_time:
