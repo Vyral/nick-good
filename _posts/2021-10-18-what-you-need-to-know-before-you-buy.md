@@ -17,9 +17,9 @@ youtube_code: LNJm94oOkbQ
 
 {% include excerpt.html %}
 
-When we work with a first-time homebuyer or a buyer who hasn’t bought a home in years, certain things always tend to come up. That’s why today, we want to go over a few things everyone should know before buying a home. If you learn these, your buying experience will go smoother, and you’ll be more likely to end up with a great deal.&nbsp;
+When we work with a first-time homebuyer or a buyer who hasn’t bought a home in years, certain things always tend to come up. That’s why today we want to go over a few things everyone should know before buying a home. If you learn these, your buying experience will go smoother, and you’ll be more likely to end up with a great deal.&nbsp;
 
-**You can watch our full video above or skip to each topic using the timestamps provided below:&nbsp;**
+**You can watch our full video above, or skip to each topic using the timestamps provided below:&nbsp;**
 
 0:00 — Introduction&nbsp;
 
@@ -37,4 +37,4 @@ When we work with a first-time homebuyer or a buyer who hasn’t bought a home i
 
 6:38 — Wrapping up&nbsp;
 
-If you follow all of these tips, you’ll be able to find a home that’s right for you in no time at all. If you are buying or selling a home in Texas, please give us a call or email. We’d love to earn the chance to get you the best deal possible.&nbsp;<br>&nbsp;
+If you follow all of these tips, you’ll be able to find a home that’s right for you in no time at all. If you are buying or selling a home in Texas, please give us a call or send an email. We’d love to earn the chance to get you the best deal possible.&nbsp;<br>&nbsp;
