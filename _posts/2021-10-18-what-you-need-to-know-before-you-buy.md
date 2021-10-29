@@ -5,7 +5,8 @@ date: 2021-10-18 19:44:31
 tags:
     - Home Buyer Tips
 excerpt: Here are a few tips everyone should know when buying a home.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Nick+Good/2021/What+You+Need+To+Know+Before+You+Buy.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
