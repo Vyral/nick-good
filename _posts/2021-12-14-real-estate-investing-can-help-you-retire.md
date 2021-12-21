@@ -4,7 +4,8 @@ title: Real Estate Investing Can Help You Retire
 date: 2021-12-14 20:58:36
 tags:
 excerpt: Here’s a simple real estate investment strategy that can help you retire.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Good/2021/Real+Estate+Investing+Can+Help+You+Retire.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -36,4 +37,4 @@ Just one real estate investment strategy can help you retire. It’s called the 
 
 6:10—Wrapping up today’s topic
 
-<br>Please don’t be a stranger; you can call, email, direct message, or send us a carrier pigeon. No matter how you reach out, we’d be glad to assist you in any way we can, whether you have real estate needs or just a simple question.&nbsp;<br>&nbsp;
+<br>Please don’t be a stranger; you can call, email, direct message, or send us a carrier pigeon. No matter how you reach out, we’d be glad to assist you in any way we can, whether you have real estate needs or just a simple question. <br>
