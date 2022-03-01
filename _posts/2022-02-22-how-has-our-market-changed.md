@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: What you can expect from this year’s DFW real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Good/2022/How+Has+Our+Market+Changed_.mp4
 pullquote: Economists are predicting that price growth won't be as strong as 2021.
 enclosure_type: video/mp4
 enclosure_time:
