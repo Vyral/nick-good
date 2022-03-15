@@ -7,7 +7,7 @@ tags:
   - Home Seller Tips
   - Market Update
   - Real Estate
-excerpt:
+excerpt: These are the four things you should consider when entering the market.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
