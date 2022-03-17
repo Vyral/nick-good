@@ -8,7 +8,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: These are the four things you should consider when entering the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Good/2022/When+Is+the+Right+Time+To+Buy+or+Sell_+(1).mp4
 pullquote: How you look at the market depends on whether you’re a buyer, seller, or both.
 enclosure_type: video/mp4
 enclosure_time:
