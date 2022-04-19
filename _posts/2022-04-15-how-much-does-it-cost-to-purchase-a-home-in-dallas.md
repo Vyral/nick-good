@@ -20,11 +20,11 @@ youtube_code: AUGLgedqIYQ
 
 Are you thinking about buying a home in Dallas, Texas, but you aren’t sure if it’s worth it? It’s one of the most expensive purchases the average person can make, so it’s important to know what you’re getting into before you pull the trigger. Today I want to share the real cost of buying a house in Dallas.
 
-**You can watch my full message in the video above or skip to each topic using the timestamps provided:**
+**You can watch my full message in the video above, or skip to each topic using the timestamps provided:**
 
 0:00 — Introducing today’s topic
 
-1:08 — Why the true cost of a home is different from what you think&nbsp;
+1:08 — Why the true cost of a home isn't what you think&nbsp;
 
 2:24 — How to calculate your monthly payment
 
