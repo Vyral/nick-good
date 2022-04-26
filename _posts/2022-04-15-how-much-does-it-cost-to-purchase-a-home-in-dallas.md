@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/nick-good---april-2022---1---youtube.jpeg
 youtube_code: AUGLgedqIYQ
 ---
 {% include youtube.html %}
