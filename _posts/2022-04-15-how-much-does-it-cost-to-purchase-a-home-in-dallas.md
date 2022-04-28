@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Market Update
 excerpt: 'Discussing the true cost of purchasing a home in Dallas, Texas. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Good/2022/REAL+Cost+of+Living+Dallas+Tx.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
