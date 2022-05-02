@@ -20,7 +20,7 @@ youtube_code: ErQlafeLNO8
 
 It’s time to talk about those dreaded property taxes. Home values have increased a ton over the last few years, and your property taxes have probably increased as a result. Fortunately, you don’t have to take your tax increases lying down. Today I want to share the steps you need to take to protest your property tax increases:
 
-**1\. What is your home’s value?** If houses around you are selling for a certain amount, and your property’s value came in at the same amount, you might not have a strong case to get your taxes lowered. To find out your home’s value, you can speak with a trusted Realtor or pay an appraiser. My team can provide a comparative market analysis for you free of charge. Just reach out to us if you’d like to learn more.&nbsp;
+**1\. Learn what your home is worth.** If houses around you are selling for a certain amount, and your property’s value came in at the same amount, you might not have a strong case to get your taxes lowered. To find out your home’s value, you can speak with a trusted Realtor or pay an appraiser. My team can provide a comparative market analysis for you free of charge. Just reach out to us if you’d like to learn more.&nbsp;
 
 **2\. File a written notice by May 15.** Send the notice to your county’s appraisal review board. If you don’t know where it is, you can usually find the information on your county’s website.&nbsp;
 
