@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'Here are six steps you can take to protest your property tax increases. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Good/2022/texas+property+taxes+-+What+You+Should+Know+%26+How+to+Get+Them+Lowered.mp4
 pullquote: 'My team can provide a comparative market analysis for you free of charge. '
 enclosure_type: video/mp4
 enclosure_time:
