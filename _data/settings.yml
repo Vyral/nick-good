@@ -33,7 +33,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.thegoodhometeam.com/home-valuation/
+  first_CTA_URL: https://good-home-value.paperform.co/
   second_CTA_text: Home Search
   second_CTA_URL: https://www.thegoodhometeam.com/results/
 
@@ -42,7 +42,7 @@ sidebar_CTA:
     CTA_title: "What’s Your Dallas/Fort Worth Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.thegoodhometeam.com/home-valuation/
+    CTA_url: https://good-home-value.paperform.co/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
