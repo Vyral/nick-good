@@ -18,7 +18,7 @@ youtube_code: _BKfowBn7EM
 
 {% include excerpt.html %}
 
-If you want to know what’s happening in our housing market, I have good and bad news. Things are changing, but this change isn’t strictly good or bad. Today I’ll go over these changes and explain what it means for you.&nbsp;
+If you want to know what’s happening in our housing market, I have good and bad news. Things are changing, but this change isn’t strictly good or bad. Today I’ll go over these changes and explain what they mean for you.&nbsp;
 
 First, the Dallas/Fort Worth housing market peaked a little over a month ago. Housing inventory is now on the rise. This is the largest inventory increase we’ve seen since June 2019.&nbsp;
 
