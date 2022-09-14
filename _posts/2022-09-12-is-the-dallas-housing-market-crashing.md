@@ -18,9 +18,7 @@ youtube_code: FIm4URfBNZg
 
 Is this real estate market really crashing, and how can you take advantage of it? My last market update video at the end of June shared that we were seeing more Dallas home sellers reducing their asking price and more homes coming up for sale.&nbsp;
 
-Now we are in September, and we are truly seeing how the Dallas-Fort Worth market has responded. We saw the average sales price for pre-owned homes peak at $497,799 in May of this year.&nbsp;
-
-Since then, we have seen the average sales price for pre-owned homes come down to $465,538, which is roughly about a $34,000 drop. **This means buyers don't have to pay peak pricing anymore.&nbsp;**
+Now we are in September, and we are truly seeing how the Dallas-Fort Worth market has responded. We saw the average sales price for pre-owned homes peak at $497,799 in May of this year. Since then, we have seen the average sales price for pre-owned homes come down to $465,538, which is roughly about a $34,000 drop. **This means buyers don't have to pay peak pricing anymore.&nbsp;**
 
 The average list-to-sales-price ratio was 104.7% in April, meaning that if you're a buyer, on average, you were paying 4.7% over the seller's asking price. Now, at the end of August, the average list-to-sales-price ratio is 97.6%. This means buyers are actually able to get sellers to agree to sell their home for 2.4% less than their asking prices.
 
