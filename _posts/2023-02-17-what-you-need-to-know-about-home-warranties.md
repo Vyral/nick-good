@@ -17,7 +17,7 @@ youtube_code: 7ThC4EPE68s
 
 {% include excerpt.html %}
 
-How much do you know about home warranties? This can be a tricky subject with a lot of deferring opinions, so today we are here to cover all of the bases. To get a professional opinion, I recently had the pleasure of talking with Aaron Smith of Armadillo Home Warranty. The Good Home Team highly recommends Armadillo, and you deserve to know why.&nbsp;
+How much do you know about home warranties? This can be a tricky subject with a lot of deferring opinions, so today, we are here to cover all of the bases. To get a professional opinion, I recently had the pleasure of talking with Aaron Smith of Armadillo Home Warranty. The Good Home Team highly recommends Armadillo, and you deserve to know why.&nbsp;
 
 **Listen to the full interview in the video above or skip to specific points using these timestamps:&nbsp;**
 
